@@ -1,0 +1,10 @@
+let num1=11;
+let num2=12;
+let op1="addition";
+let op2="subtraction";
+let op3="multi";
+let op4="division";
+console.log("Addition is: "+(num1+num2));
+console.log("Subtraction is: "+(num1-num2));
+console.log("Multiplication is: "+(num1*num2));
+console.log("Division is: "+(num1/num2));
